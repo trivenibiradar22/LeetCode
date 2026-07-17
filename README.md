@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/trivenibiradar22/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/trivenibiradar22/LeetCode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/trivenibiradar22/LeetCode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/trivenibiradar22/LeetCode/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/trivenibiradar22/LeetCode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/trivenibiradar22/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/trivenibiradar22/LeetCode/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/trivenibiradar22/LeetCode/tree/master/0205-isomorphic-strings) |
 ## Sliding Window
 |  |
 | ------- |
