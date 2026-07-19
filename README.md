@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/trivenibiradar22/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/trivenibiradar22/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/trivenibiradar22/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/trivenibiradar22/LeetCode/tree/master/0061-rotate-list) |
 | [0147-insertion-sort-list](https://github.com/trivenibiradar22/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/trivenibiradar22/LeetCode/tree/master/0148-sort-list) |
 ## Math
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/trivenibiradar22/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/trivenibiradar22/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/trivenibiradar22/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/trivenibiradar22/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/trivenibiradar22/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/trivenibiradar22/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/trivenibiradar22/LeetCode/tree/master/0148-sort-list) |
