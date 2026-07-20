@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/trivenibiradar22/LeetCode/tree/master/0068-text-justification) |
 | [0205-isomorphic-strings](https://github.com/trivenibiradar22/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0649-dota2-senate](https://github.com/trivenibiradar22/LeetCode/tree/master/0649-dota2-senate) |
+| [0936-stamping-the-sequence](https://github.com/trivenibiradar22/LeetCode/tree/master/0936-stamping-the-sequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/trivenibiradar22/LeetCode/tree/master/0055-jump-game) |
 | [0649-dota2-senate](https://github.com/trivenibiradar22/LeetCode/tree/master/0649-dota2-senate) |
+| [0936-stamping-the-sequence](https://github.com/trivenibiradar22/LeetCode/tree/master/0936-stamping-the-sequence) |
 ## Trie
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/trivenibiradar22/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/trivenibiradar22/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/trivenibiradar22/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+| [0936-stamping-the-sequence](https://github.com/trivenibiradar22/LeetCode/tree/master/0936-stamping-the-sequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/trivenibiradar22/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0649-dota2-senate](https://github.com/trivenibiradar22/LeetCode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/trivenibiradar22/LeetCode/tree/master/0933-number-of-recent-calls) |
+| [0936-stamping-the-sequence](https://github.com/trivenibiradar22/LeetCode/tree/master/0936-stamping-the-sequence) |
 ## Monotonic Queue
 |  |
 | ------- |
