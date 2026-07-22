@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/trivenibiradar22/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/trivenibiradar22/LeetCode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/trivenibiradar22/LeetCode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/trivenibiradar22/LeetCode/tree/master/0072-edit-distance) |
 | [0179-largest-number](https://github.com/trivenibiradar22/LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/trivenibiradar22/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0649-dota2-senate](https://github.com/trivenibiradar22/LeetCode/tree/master/0649-dota2-senate) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/trivenibiradar22/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/trivenibiradar22/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/trivenibiradar22/LeetCode/tree/master/0072-edit-distance) |
 ## Greedy
 |  |
 | ------- |
