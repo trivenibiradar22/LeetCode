@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/trivenibiradar22/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/trivenibiradar22/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/trivenibiradar22/LeetCode/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/trivenibiradar22/LeetCode/tree/master/0071-simplify-path) |
 | [0179-largest-number](https://github.com/trivenibiradar22/LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/trivenibiradar22/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0649-dota2-senate](https://github.com/trivenibiradar22/LeetCode/tree/master/0649-dota2-senate) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/trivenibiradar22/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/trivenibiradar22/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/trivenibiradar22/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/trivenibiradar22/LeetCode/tree/master/0071-simplify-path) |
 | [0225-implement-stack-using-queues](https://github.com/trivenibiradar22/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/trivenibiradar22/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/trivenibiradar22/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
