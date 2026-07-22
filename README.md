@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/trivenibiradar22/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/trivenibiradar22/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/trivenibiradar22/LeetCode/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/trivenibiradar22/LeetCode/tree/master/0087-scramble-string) |
 | [0179-largest-number](https://github.com/trivenibiradar22/LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/trivenibiradar22/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0649-dota2-senate](https://github.com/trivenibiradar22/LeetCode/tree/master/0649-dota2-senate) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/trivenibiradar22/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/trivenibiradar22/LeetCode/tree/master/0072-edit-distance) |
+| [0087-scramble-string](https://github.com/trivenibiradar22/LeetCode/tree/master/0087-scramble-string) |
 ## Greedy
 |  |
 | ------- |
