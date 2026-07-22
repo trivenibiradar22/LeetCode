@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/trivenibiradar22/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/trivenibiradar22/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/trivenibiradar22/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/trivenibiradar22/LeetCode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/trivenibiradar22/LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/trivenibiradar22/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0649-dota2-senate](https://github.com/trivenibiradar22/LeetCode/tree/master/0649-dota2-senate) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/trivenibiradar22/LeetCode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/trivenibiradar22/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/trivenibiradar22/LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/trivenibiradar22/LeetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/trivenibiradar22/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/trivenibiradar22/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/trivenibiradar22/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/trivenibiradar22/LeetCode/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/trivenibiradar22/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/trivenibiradar22/LeetCode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Database
 |  |
@@ -374,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/trivenibiradar22/LeetCode/tree/master/0079-word-search) |
 | [0341-flatten-nested-list-iterator](https://github.com/trivenibiradar22/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 ## Iterator
 |  |
