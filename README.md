@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/trivenibiradar22/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/trivenibiradar22/LeetCode/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/trivenibiradar22/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0399-evaluate-division](https://github.com/trivenibiradar22/LeetCode/tree/master/0399-evaluate-division) |
 | [0649-dota2-senate](https://github.com/trivenibiradar22/LeetCode/tree/master/0649-dota2-senate) |
 | [0936-stamping-the-sequence](https://github.com/trivenibiradar22/LeetCode/tree/master/0936-stamping-the-sequence) |
 ## Sliding Window
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/trivenibiradar22/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0399-evaluate-division](https://github.com/trivenibiradar22/LeetCode/tree/master/0399-evaluate-division) |
 ## Binary Search
 |  |
 | ------- |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/trivenibiradar22/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/trivenibiradar22/LeetCode/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/trivenibiradar22/LeetCode/tree/master/0388-longest-absolute-file-path) |
+| [0399-evaluate-division](https://github.com/trivenibiradar22/LeetCode/tree/master/0399-evaluate-division) |
 ## Iterator
 |  |
 | ------- |
@@ -486,4 +489,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/trivenibiradar22/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/trivenibiradar22/LeetCode/tree/master/0399-evaluate-division) |
+## Union-Find
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/trivenibiradar22/LeetCode/tree/master/0399-evaluate-division) |
+## Graph Theory
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/trivenibiradar22/LeetCode/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/trivenibiradar22/LeetCode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
