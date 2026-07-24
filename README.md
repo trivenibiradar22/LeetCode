@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/trivenibiradar22/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/trivenibiradar22/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/trivenibiradar22/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/trivenibiradar22/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/trivenibiradar22/LeetCode/tree/master/0383-ransom-note) |
 | [0385-mini-parser](https://github.com/trivenibiradar22/LeetCode/tree/master/0385-mini-parser) |
+| [0387-first-unique-character-in-a-string](https://github.com/trivenibiradar22/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/trivenibiradar22/LeetCode/tree/master/0649-dota2-senate) |
 | [0936-stamping-the-sequence](https://github.com/trivenibiradar22/LeetCode/tree/master/0936-stamping-the-sequence) |
 ## Sliding Window
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/trivenibiradar22/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/trivenibiradar22/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/trivenibiradar22/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+| [0387-first-unique-character-in-a-string](https://github.com/trivenibiradar22/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/trivenibiradar22/LeetCode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/trivenibiradar22/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [0936-stamping-the-sequence](https://github.com/trivenibiradar22/LeetCode/tree/master/0936-stamping-the-sequence) |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/trivenibiradar22/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/trivenibiradar22/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/trivenibiradar22/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Indexed Tree
 |  |
 | ------- |
