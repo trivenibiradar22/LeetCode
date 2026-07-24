@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/trivenibiradar22/LeetCode/tree/master/0383-ransom-note) |
 | [0385-mini-parser](https://github.com/trivenibiradar22/LeetCode/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/trivenibiradar22/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0388-longest-absolute-file-path](https://github.com/trivenibiradar22/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0649-dota2-senate](https://github.com/trivenibiradar22/LeetCode/tree/master/0649-dota2-senate) |
 | [0936-stamping-the-sequence](https://github.com/trivenibiradar22/LeetCode/tree/master/0936-stamping-the-sequence) |
 ## Sliding Window
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/trivenibiradar22/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/trivenibiradar22/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/trivenibiradar22/LeetCode/tree/master/0385-mini-parser) |
+| [0388-longest-absolute-file-path](https://github.com/trivenibiradar22/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0936-stamping-the-sequence](https://github.com/trivenibiradar22/LeetCode/tree/master/0936-stamping-the-sequence) |
 ## Heap (Priority Queue)
 |  |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/trivenibiradar22/LeetCode/tree/master/0079-word-search) |
 | [0341-flatten-nested-list-iterator](https://github.com/trivenibiradar22/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/trivenibiradar22/LeetCode/tree/master/0385-mini-parser) |
+| [0388-longest-absolute-file-path](https://github.com/trivenibiradar22/LeetCode/tree/master/0388-longest-absolute-file-path) |
 ## Iterator
 |  |
 | ------- |
