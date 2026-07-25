@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/trivenibiradar22/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/trivenibiradar22/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/trivenibiradar22/LeetCode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/trivenibiradar22/LeetCode/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/trivenibiradar22/LeetCode/tree/master/0202-happy-number) |
 ## Recursion
 |  |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/trivenibiradar22/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/trivenibiradar22/LeetCode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/trivenibiradar22/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/trivenibiradar22/LeetCode/tree/master/0093-restore-ip-addresses) |
 ## Stack
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/trivenibiradar22/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/trivenibiradar22/LeetCode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/trivenibiradar22/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/trivenibiradar22/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/trivenibiradar22/LeetCode/tree/master/0389-find-the-difference) |
