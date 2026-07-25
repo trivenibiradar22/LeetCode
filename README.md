@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/trivenibiradar22/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/trivenibiradar22/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/trivenibiradar22/LeetCode/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/trivenibiradar22/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/trivenibiradar22/LeetCode/tree/master/0202-happy-number) |
 ## Recursion
 |  |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/trivenibiradar22/LeetCode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/trivenibiradar22/LeetCode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/trivenibiradar22/LeetCode/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/trivenibiradar22/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/trivenibiradar22/LeetCode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/trivenibiradar22/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/trivenibiradar22/LeetCode/tree/master/0118-pascals-triangle) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/trivenibiradar22/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/trivenibiradar22/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/trivenibiradar22/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/trivenibiradar22/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/trivenibiradar22/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/trivenibiradar22/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/trivenibiradar22/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/trivenibiradar22/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -491,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/trivenibiradar22/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/trivenibiradar22/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Breadth-First Search
 |  |
