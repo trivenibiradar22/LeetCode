@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/trivenibiradar22/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/trivenibiradar22/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/trivenibiradar22/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/trivenibiradar22/LeetCode/tree/master/0127-word-ladder) |
 | [0149-max-points-on-a-line](https://github.com/trivenibiradar22/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/trivenibiradar22/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/trivenibiradar22/LeetCode/tree/master/0202-happy-number) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/trivenibiradar22/LeetCode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/trivenibiradar22/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/trivenibiradar22/LeetCode/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/trivenibiradar22/LeetCode/tree/master/0127-word-ladder) |
 | [0168-excel-sheet-column-title](https://github.com/trivenibiradar22/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/trivenibiradar22/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/trivenibiradar22/LeetCode/tree/master/0179-largest-number) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/trivenibiradar22/LeetCode/tree/master/0127-word-ladder) |
 | [0399-evaluate-division](https://github.com/trivenibiradar22/LeetCode/tree/master/0399-evaluate-division) |
 ## Union-Find
 |  |
