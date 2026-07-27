@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/trivenibiradar22/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/trivenibiradar22/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/trivenibiradar22/LeetCode/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/trivenibiradar22/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/trivenibiradar22/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/trivenibiradar22/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/trivenibiradar22/LeetCode/tree/master/0202-happy-number) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/trivenibiradar22/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/trivenibiradar22/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/trivenibiradar22/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/trivenibiradar22/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/trivenibiradar22/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/trivenibiradar22/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/trivenibiradar22/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/trivenibiradar22/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0399-evaluate-division](https://github.com/trivenibiradar22/LeetCode/tree/master/0399-evaluate-division) |
 ## Graph Theory
 |  |
