@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/trivenibiradar22/LeetCode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/trivenibiradar22/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/trivenibiradar22/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/trivenibiradar22/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/trivenibiradar22/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/trivenibiradar22/LeetCode/tree/master/0202-happy-number) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/trivenibiradar22/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/trivenibiradar22/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0140-word-break-ii) |
 | [0168-excel-sheet-column-title](https://github.com/trivenibiradar22/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/trivenibiradar22/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/trivenibiradar22/LeetCode/tree/master/0179-largest-number) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/trivenibiradar22/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/trivenibiradar22/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/trivenibiradar22/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/trivenibiradar22/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/trivenibiradar22/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/trivenibiradar22/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/trivenibiradar22/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0140-word-break-ii) |
 | [0392-is-subsequence](https://github.com/trivenibiradar22/LeetCode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/trivenibiradar22/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/trivenibiradar22/LeetCode/tree/master/0472-concatenated-words) |
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/trivenibiradar22/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/trivenibiradar22/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0140-word-break-ii) |
 | [0472-concatenated-words](https://github.com/trivenibiradar22/LeetCode/tree/master/0472-concatenated-words) |
 ## Sorting
 |  |
@@ -389,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/trivenibiradar22/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/trivenibiradar22/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0140-word-break-ii) |
 ## Stack
 |  |
 | ------- |
@@ -529,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/trivenibiradar22/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/trivenibiradar22/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0140-word-break-ii) |
 ## Design
 |  |
 | ------- |
