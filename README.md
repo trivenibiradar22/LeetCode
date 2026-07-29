@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/trivenibiradar22/LeetCode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/trivenibiradar22/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/trivenibiradar22/LeetCode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/trivenibiradar22/LeetCode/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/trivenibiradar22/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/trivenibiradar22/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/trivenibiradar22/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/trivenibiradar22/LeetCode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/trivenibiradar22/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/trivenibiradar22/LeetCode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/trivenibiradar22/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/trivenibiradar22/LeetCode/tree/master/0389-find-the-difference) |
 ## Matrix
