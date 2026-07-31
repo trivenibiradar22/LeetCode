@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/trivenibiradar22/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/trivenibiradar22/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/trivenibiradar22/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/trivenibiradar22/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/trivenibiradar22/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/trivenibiradar22/LeetCode/tree/master/0383-ransom-note) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/trivenibiradar22/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/trivenibiradar22/LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/trivenibiradar22/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/trivenibiradar22/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0383-ransom-note](https://github.com/trivenibiradar22/LeetCode/tree/master/0383-ransom-note) |
 | [0385-mini-parser](https://github.com/trivenibiradar22/LeetCode/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/trivenibiradar22/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/trivenibiradar22/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/trivenibiradar22/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0140-word-break-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/trivenibiradar22/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0472-concatenated-words](https://github.com/trivenibiradar22/LeetCode/tree/master/0472-concatenated-words) |
 ## Sorting
 |  |
@@ -576,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/trivenibiradar22/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/trivenibiradar22/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/trivenibiradar22/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/trivenibiradar22/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
