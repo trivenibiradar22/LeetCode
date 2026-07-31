@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/trivenibiradar22/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/trivenibiradar22/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/trivenibiradar22/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/trivenibiradar22/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/trivenibiradar22/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/trivenibiradar22/LeetCode/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/trivenibiradar22/LeetCode/tree/master/0218-the-skyline-problem) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/trivenibiradar22/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/trivenibiradar22/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/trivenibiradar22/LeetCode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/trivenibiradar22/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Database
 |  |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/trivenibiradar22/LeetCode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/trivenibiradar22/LeetCode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/trivenibiradar22/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/trivenibiradar22/LeetCode/tree/master/0200-number-of-islands) |
 | [0341-flatten-nested-list-iterator](https://github.com/trivenibiradar22/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/trivenibiradar22/LeetCode/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/trivenibiradar22/LeetCode/tree/master/0388-longest-absolute-file-path) |
@@ -676,12 +679,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/trivenibiradar22/LeetCode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/trivenibiradar22/LeetCode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/trivenibiradar22/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/trivenibiradar22/LeetCode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/trivenibiradar22/LeetCode/tree/master/0399-evaluate-division) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/trivenibiradar22/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/trivenibiradar22/LeetCode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/trivenibiradar22/LeetCode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/trivenibiradar22/LeetCode/tree/master/0399-evaluate-division) |
 ## Graph Theory
 |  |
