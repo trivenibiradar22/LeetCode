@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/trivenibiradar22/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/trivenibiradar22/LeetCode/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/trivenibiradar22/LeetCode/tree/master/0203-remove-linked-list-elements) |
 ## Math
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/trivenibiradar22/LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/trivenibiradar22/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/trivenibiradar22/LeetCode/tree/master/0060-permutation-sequence) |
+| [0203-remove-linked-list-elements](https://github.com/trivenibiradar22/LeetCode/tree/master/0203-remove-linked-list-elements) |
 ## Hash Table
 |  |
 | ------- |
