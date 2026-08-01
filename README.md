@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/trivenibiradar22/LeetCode/tree/master/0472-concatenated-words) |
 | [0475-heaters](https://github.com/trivenibiradar22/LeetCode/tree/master/0475-heaters) |
 | [0491-non-decreasing-subsequences](https://github.com/trivenibiradar22/LeetCode/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/trivenibiradar22/LeetCode/tree/master/0494-target-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/trivenibiradar22/LeetCode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/trivenibiradar22/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/trivenibiradar22/LeetCode/tree/master/0472-concatenated-words) |
+| [0494-target-sum](https://github.com/trivenibiradar22/LeetCode/tree/master/0494-target-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0212-word-search-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/trivenibiradar22/LeetCode/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/trivenibiradar22/LeetCode/tree/master/0494-target-sum) |
 ## Stack
 |  |
 | ------- |
