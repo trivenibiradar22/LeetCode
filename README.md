@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/trivenibiradar22/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/trivenibiradar22/LeetCode/tree/master/0202-happy-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0492-construct-the-rectangle](https://github.com/trivenibiradar22/LeetCode/tree/master/0492-construct-the-rectangle) |
 ## Recursion
 |  |
 | ------- |
