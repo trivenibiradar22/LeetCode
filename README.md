@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/trivenibiradar22/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/trivenibiradar22/LeetCode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/trivenibiradar22/LeetCode/tree/master/0233-number-of-digit-one) |
+| [0326-power-of-three](https://github.com/trivenibiradar22/LeetCode/tree/master/0326-power-of-three) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/trivenibiradar22/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/trivenibiradar22/LeetCode/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/trivenibiradar22/LeetCode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/trivenibiradar22/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/trivenibiradar22/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/trivenibiradar22/LeetCode/tree/master/0326-power-of-three) |
 ## Hash Table
 |  |
 | ------- |
