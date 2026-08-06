@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/trivenibiradar22/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/trivenibiradar22/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0212-word-search-ii) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/trivenibiradar22/LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0383-ransom-note](https://github.com/trivenibiradar22/LeetCode/tree/master/0383-ransom-note) |
 | [0385-mini-parser](https://github.com/trivenibiradar22/LeetCode/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/trivenibiradar22/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/trivenibiradar22/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/trivenibiradar22/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/trivenibiradar22/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/trivenibiradar22/LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/trivenibiradar22/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/trivenibiradar22/LeetCode/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/trivenibiradar22/LeetCode/tree/master/0388-longest-absolute-file-path) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/trivenibiradar22/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/trivenibiradar22/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/trivenibiradar22/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/trivenibiradar22/LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/trivenibiradar22/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 ## Binary Tree
 |  |
@@ -661,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/trivenibiradar22/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/trivenibiradar22/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/trivenibiradar22/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/trivenibiradar22/LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Combinatorics
 |  |
 | ------- |
