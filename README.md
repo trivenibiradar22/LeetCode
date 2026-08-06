@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/trivenibiradar22/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/trivenibiradar22/LeetCode/tree/master/0274-h-index) |
+| [0327-count-of-range-sum](https://github.com/trivenibiradar22/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0354-russian-doll-envelopes](https://github.com/trivenibiradar22/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0399-evaluate-division](https://github.com/trivenibiradar22/LeetCode/tree/master/0399-evaluate-division) |
 | [0406-queue-reconstruction-by-height](https://github.com/trivenibiradar22/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/trivenibiradar22/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/trivenibiradar22/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0327-count-of-range-sum](https://github.com/trivenibiradar22/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0354-russian-doll-envelopes](https://github.com/trivenibiradar22/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0436-find-right-interval](https://github.com/trivenibiradar22/LeetCode/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/trivenibiradar22/LeetCode/tree/master/0456-132-pattern) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/trivenibiradar22/LeetCode/tree/master/0169-majority-element) |
 | [0218-the-skyline-problem](https://github.com/trivenibiradar22/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0327-count-of-range-sum](https://github.com/trivenibiradar22/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/trivenibiradar22/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Two Pointers
 |  |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/trivenibiradar22/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/trivenibiradar22/LeetCode/tree/master/0148-sort-list) |
+| [0327-count-of-range-sum](https://github.com/trivenibiradar22/LeetCode/tree/master/0327-count-of-range-sum) |
 ## String Matching
 |  |
 | ------- |
@@ -749,11 +753,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/trivenibiradar22/LeetCode/tree/master/0218-the-skyline-problem) |
+| [0327-count-of-range-sum](https://github.com/trivenibiradar22/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/trivenibiradar22/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/trivenibiradar22/LeetCode/tree/master/0218-the-skyline-problem) |
+| [0327-count-of-range-sum](https://github.com/trivenibiradar22/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/trivenibiradar22/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 ## Sweep Line
 |  |
@@ -764,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/trivenibiradar22/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/trivenibiradar22/LeetCode/tree/master/0220-contains-duplicate-iii) |
+| [0327-count-of-range-sum](https://github.com/trivenibiradar22/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0456-132-pattern](https://github.com/trivenibiradar22/LeetCode/tree/master/0456-132-pattern) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/trivenibiradar22/LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Binary Search Tree
@@ -854,4 +861,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/trivenibiradar22/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Treap
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/trivenibiradar22/LeetCode/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
