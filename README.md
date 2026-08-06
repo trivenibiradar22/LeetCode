@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/trivenibiradar22/LeetCode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/trivenibiradar22/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/trivenibiradar22/LeetCode/tree/master/0326-power-of-three) |
+| [0335-self-crossing](https://github.com/trivenibiradar22/LeetCode/tree/master/0335-self-crossing) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/trivenibiradar22/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/trivenibiradar22/LeetCode/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/trivenibiradar22/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/trivenibiradar22/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/trivenibiradar22/LeetCode/tree/master/0332-reconstruct-itinerary) |
+| [0335-self-crossing](https://github.com/trivenibiradar22/LeetCode/tree/master/0335-self-crossing) |
 | [0354-russian-doll-envelopes](https://github.com/trivenibiradar22/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0399-evaluate-division](https://github.com/trivenibiradar22/LeetCode/tree/master/0399-evaluate-division) |
 | [0406-queue-reconstruction-by-height](https://github.com/trivenibiradar22/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
@@ -844,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/trivenibiradar22/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0335-self-crossing](https://github.com/trivenibiradar22/LeetCode/tree/master/0335-self-crossing) |
 ## Topological Sort
 |  |
 | ------- |
