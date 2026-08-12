@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/trivenibiradar22/LeetCode/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/trivenibiradar22/LeetCode/tree/master/0399-evaluate-division) |
 | [0406-queue-reconstruction-by-height](https://github.com/trivenibiradar22/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
+| [0407-trapping-rain-water-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/trivenibiradar22/LeetCode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/trivenibiradar22/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/trivenibiradar22/LeetCode/tree/master/0436-find-right-interval) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/trivenibiradar22/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/trivenibiradar22/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0332-reconstruct-itinerary](https://github.com/trivenibiradar22/LeetCode/tree/master/0332-reconstruct-itinerary) |
+| [0407-trapping-rain-water-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/trivenibiradar22/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/trivenibiradar22/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Merge Sort
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/trivenibiradar22/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/trivenibiradar22/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/trivenibiradar22/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/trivenibiradar22/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -874,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/trivenibiradar22/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/trivenibiradar22/LeetCode/tree/master/0399-evaluate-division) |
+| [0407-trapping-rain-water-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 ## Union-Find
 |  |
 | ------- |
