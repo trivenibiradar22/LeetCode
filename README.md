@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/trivenibiradar22/LeetCode/tree/master/0335-self-crossing) |
 | [0396-rotate-function](https://github.com/trivenibiradar22/LeetCode/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/trivenibiradar22/LeetCode/tree/master/0398-random-pick-index) |
+| [0400-nth-digit](https://github.com/trivenibiradar22/LeetCode/tree/master/0400-nth-digit) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/trivenibiradar22/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/trivenibiradar22/LeetCode/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0327-count-of-range-sum](https://github.com/trivenibiradar22/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0354-russian-doll-envelopes](https://github.com/trivenibiradar22/LeetCode/tree/master/0354-russian-doll-envelopes) |
+| [0400-nth-digit](https://github.com/trivenibiradar22/LeetCode/tree/master/0400-nth-digit) |
 | [0436-find-right-interval](https://github.com/trivenibiradar22/LeetCode/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/trivenibiradar22/LeetCode/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/trivenibiradar22/LeetCode/tree/master/0475-heaters) |
