@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/trivenibiradar22/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/trivenibiradar22/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0460-lfu-cache](https://github.com/trivenibiradar22/LeetCode/tree/master/0460-lfu-cache) |
 ## Math
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/trivenibiradar22/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/trivenibiradar22/LeetCode/tree/master/0457-circular-array-loop) |
+| [0460-lfu-cache](https://github.com/trivenibiradar22/LeetCode/tree/master/0460-lfu-cache) |
 | [0491-non-decreasing-subsequences](https://github.com/trivenibiradar22/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/trivenibiradar22/LeetCode/tree/master/0496-next-greater-element-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/trivenibiradar22/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -749,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/trivenibiradar22/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/trivenibiradar22/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/trivenibiradar22/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+| [0460-lfu-cache](https://github.com/trivenibiradar22/LeetCode/tree/master/0460-lfu-cache) |
 | [0933-number-of-recent-calls](https://github.com/trivenibiradar22/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [1622-fancy-sequence](https://github.com/trivenibiradar22/LeetCode/tree/master/1622-fancy-sequence) |
 ## Queue
@@ -999,4 +1002,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/trivenibiradar22/LeetCode/tree/master/0455-assign-cookies) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/trivenibiradar22/LeetCode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
