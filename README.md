@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/trivenibiradar22/LeetCode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/trivenibiradar22/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/trivenibiradar22/LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/trivenibiradar22/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/trivenibiradar22/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/trivenibiradar22/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/trivenibiradar22/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/trivenibiradar22/LeetCode/tree/master/0464-can-i-win) |
 | [0472-concatenated-words](https://github.com/trivenibiradar22/LeetCode/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/trivenibiradar22/LeetCode/tree/master/0494-target-sum) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/trivenibiradar22/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/trivenibiradar22/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/trivenibiradar22/LeetCode/tree/master/0463-island-perimeter) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/trivenibiradar22/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/trivenibiradar22/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/trivenibiradar22/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/trivenibiradar22/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
