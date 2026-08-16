@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/trivenibiradar22/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/trivenibiradar22/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/trivenibiradar22/LeetCode/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trivenibiradar22/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/trivenibiradar22/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/trivenibiradar22/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/trivenibiradar22/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/trivenibiradar22/LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0645-set-mismatch](https://github.com/trivenibiradar22/LeetCode/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trivenibiradar22/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/trivenibiradar22/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/trivenibiradar22/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/trivenibiradar22/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/trivenibiradar22/LeetCode/tree/master/0472-concatenated-words) |
 | [0475-heaters](https://github.com/trivenibiradar22/LeetCode/tree/master/0475-heaters) |
 | [0645-set-mismatch](https://github.com/trivenibiradar22/LeetCode/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trivenibiradar22/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/trivenibiradar22/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/trivenibiradar22/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/trivenibiradar22/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -967,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/trivenibiradar22/LeetCode/tree/master/0274-h-index) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trivenibiradar22/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
