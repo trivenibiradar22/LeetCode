@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/trivenibiradar22/LeetCode/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/trivenibiradar22/LeetCode/tree/master/0472-concatenated-words) |
 | [0475-heaters](https://github.com/trivenibiradar22/LeetCode/tree/master/0475-heaters) |
+| [0485-max-consecutive-ones](https://github.com/trivenibiradar22/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/trivenibiradar22/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/trivenibiradar22/LeetCode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/trivenibiradar22/LeetCode/tree/master/0495-teemo-attacking) |
