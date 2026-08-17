@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trivenibiradar22/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/trivenibiradar22/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/trivenibiradar22/LeetCode/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/trivenibiradar22/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1563-stone-game-v](https://github.com/trivenibiradar22/LeetCode/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/trivenibiradar22/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/trivenibiradar22/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/trivenibiradar22/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0936-stamping-the-sequence](https://github.com/trivenibiradar22/LeetCode/tree/master/0936-stamping-the-sequence) |
 | [1441-build-an-array-with-stack-operations](https://github.com/trivenibiradar22/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/trivenibiradar22/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/trivenibiradar22/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/trivenibiradar22/LeetCode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/trivenibiradar22/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/trivenibiradar22/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
 |  |
 | ------- |
