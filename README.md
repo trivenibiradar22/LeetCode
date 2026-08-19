@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/trivenibiradar22/LeetCode/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/trivenibiradar22/LeetCode/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/trivenibiradar22/LeetCode/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/trivenibiradar22/LeetCode/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/trivenibiradar22/LeetCode/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/trivenibiradar22/LeetCode/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/trivenibiradar22/LeetCode/tree/master/0400-nth-digit) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/trivenibiradar22/LeetCode/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/trivenibiradar22/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/trivenibiradar22/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0343-integer-break](https://github.com/trivenibiradar22/LeetCode/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/trivenibiradar22/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0392-is-subsequence](https://github.com/trivenibiradar22/LeetCode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/trivenibiradar22/LeetCode/tree/master/0396-rotate-function) |
