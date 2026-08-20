@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/trivenibiradar22/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/trivenibiradar22/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/trivenibiradar22/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/trivenibiradar22/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/trivenibiradar22/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/trivenibiradar22/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/trivenibiradar22/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -729,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/trivenibiradar22/LeetCode/tree/master/0495-teemo-attacking) |
 | [1441-build-an-array-with-stack-operations](https://github.com/trivenibiradar22/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/trivenibiradar22/LeetCode/tree/master/1929-concatenation-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/trivenibiradar22/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
