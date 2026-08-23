@@ -715,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/trivenibiradar22/LeetCode/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/trivenibiradar22/LeetCode/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/trivenibiradar22/LeetCode/tree/master/0511-game-play-analysis-i) |
+| [0584-find-customer-referee](https://github.com/trivenibiradar22/LeetCode/tree/master/0584-find-customer-referee) |
 | [0596-classes-with-at-least-5-students](https://github.com/trivenibiradar22/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0601-human-traffic-of-stadium](https://github.com/trivenibiradar22/LeetCode/tree/master/0601-human-traffic-of-stadium) |
 | [0620-not-boring-movies](https://github.com/trivenibiradar22/LeetCode/tree/master/0620-not-boring-movies) |
