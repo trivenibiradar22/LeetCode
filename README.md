@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/trivenibiradar22/LeetCode/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/trivenibiradar22/LeetCode/tree/master/0739-daily-temperatures) |
 | [1046-last-stone-weight](https://github.com/trivenibiradar22/LeetCode/tree/master/1046-last-stone-weight) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/trivenibiradar22/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trivenibiradar22/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/trivenibiradar22/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/trivenibiradar22/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/trivenibiradar22/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1046-last-stone-weight](https://github.com/trivenibiradar22/LeetCode/tree/master/1046-last-stone-weight) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/trivenibiradar22/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/trivenibiradar22/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Merge Sort
 |  |
