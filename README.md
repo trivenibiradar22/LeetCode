@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/trivenibiradar22/LeetCode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/trivenibiradar22/LeetCode/tree/master/0520-detect-capital) |
 | [0649-dota2-senate](https://github.com/trivenibiradar22/LeetCode/tree/master/0649-dota2-senate) |
+| [0831-masking-personal-information](https://github.com/trivenibiradar22/LeetCode/tree/master/0831-masking-personal-information) |
 | [0936-stamping-the-sequence](https://github.com/trivenibiradar22/LeetCode/tree/master/0936-stamping-the-sequence) |
 | [1927-sum-game](https://github.com/trivenibiradar22/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/trivenibiradar22/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
