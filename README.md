@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/trivenibiradar22/LeetCode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/trivenibiradar22/LeetCode/tree/master/0520-detect-capital) |
 | [0649-dota2-senate](https://github.com/trivenibiradar22/LeetCode/tree/master/0649-dota2-senate) |
+| [0686-repeated-string-match](https://github.com/trivenibiradar22/LeetCode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/trivenibiradar22/LeetCode/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/trivenibiradar22/LeetCode/tree/master/0831-masking-personal-information) |
 | [0936-stamping-the-sequence](https://github.com/trivenibiradar22/LeetCode/tree/master/0936-stamping-the-sequence) |
@@ -668,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/trivenibiradar22/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/trivenibiradar22/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/trivenibiradar22/LeetCode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/trivenibiradar22/LeetCode/tree/master/0796-rotate-string) |
 ## Bit Manipulation
 |  |
@@ -1109,10 +1111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/trivenibiradar22/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0459-repeated-substring-pattern](https://github.com/trivenibiradar22/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/trivenibiradar22/LeetCode/tree/master/0686-repeated-string-match) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/trivenibiradar22/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0686-repeated-string-match](https://github.com/trivenibiradar22/LeetCode/tree/master/0686-repeated-string-match) |
 ## Quickselect
 |  |
 | ------- |
@@ -1171,4 +1175,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/trivenibiradar22/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/trivenibiradar22/LeetCode/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
