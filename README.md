@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/trivenibiradar22/LeetCode/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/trivenibiradar22/LeetCode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/trivenibiradar22/LeetCode/tree/master/0343-integer-break) |
+| [0372-super-pow](https://github.com/trivenibiradar22/LeetCode/tree/master/0372-super-pow) |
 | [0396-rotate-function](https://github.com/trivenibiradar22/LeetCode/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/trivenibiradar22/LeetCode/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/trivenibiradar22/LeetCode/tree/master/0400-nth-digit) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/trivenibiradar22/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0327-count-of-range-sum](https://github.com/trivenibiradar22/LeetCode/tree/master/0327-count-of-range-sum) |
+| [0372-super-pow](https://github.com/trivenibiradar22/LeetCode/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/trivenibiradar22/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Two Pointers
 |  |
@@ -1176,4 +1178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/trivenibiradar22/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/trivenibiradar22/LeetCode/tree/master/0686-repeated-string-match) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/trivenibiradar22/LeetCode/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/trivenibiradar22/LeetCode/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
