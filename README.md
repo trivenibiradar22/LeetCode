@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/trivenibiradar22/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/trivenibiradar22/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/trivenibiradar22/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/trivenibiradar22/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/trivenibiradar22/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/trivenibiradar22/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/trivenibiradar22/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/trivenibiradar22/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/trivenibiradar22/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1927-sum-game](https://github.com/trivenibiradar22/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/trivenibiradar22/LeetCode/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/trivenibiradar22/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Trie
 |  |
 | ------- |
@@ -954,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/trivenibiradar22/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/trivenibiradar22/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2029-stone-game-ix](https://github.com/trivenibiradar22/LeetCode/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/trivenibiradar22/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -1178,6 +1182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0479-largest-palindrome-product](https://github.com/trivenibiradar22/LeetCode/tree/master/0479-largest-palindrome-product) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/trivenibiradar22/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
