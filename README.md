@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/trivenibiradar22/LeetCode/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/trivenibiradar22/LeetCode/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/trivenibiradar22/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/trivenibiradar22/LeetCode/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0447-number-of-boomerangs](https://github.com/trivenibiradar22/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/trivenibiradar22/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/trivenibiradar22/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/trivenibiradar22/LeetCode/tree/master/0399-evaluate-division) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/trivenibiradar22/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/trivenibiradar22/LeetCode/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/trivenibiradar22/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/trivenibiradar22/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0472-concatenated-words](https://github.com/trivenibiradar22/LeetCode/tree/master/0472-concatenated-words) |
@@ -788,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/trivenibiradar22/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/trivenibiradar22/LeetCode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/trivenibiradar22/LeetCode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/trivenibiradar22/LeetCode/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/trivenibiradar22/LeetCode/tree/master/0495-teemo-attacking) |
 | [1441-build-an-array-with-stack-operations](https://github.com/trivenibiradar22/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/trivenibiradar22/LeetCode/tree/master/1929-concatenation-of-array) |
