@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/trivenibiradar22/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/trivenibiradar22/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/trivenibiradar22/LeetCode/tree/master/0278-first-bad-version) |
 | [0327-count-of-range-sum](https://github.com/trivenibiradar22/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0354-russian-doll-envelopes](https://github.com/trivenibiradar22/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0374-guess-number-higher-or-lower](https://github.com/trivenibiradar22/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
@@ -1246,6 +1247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/trivenibiradar22/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/trivenibiradar22/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Knapsack Problem
 |  |
