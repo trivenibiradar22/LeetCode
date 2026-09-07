@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0479-largest-palindrome-product](https://github.com/trivenibiradar22/LeetCode/tree/master/0479-largest-palindrome-product) |
 | [0492-construct-the-rectangle](https://github.com/trivenibiradar22/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/trivenibiradar22/LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0633-sum-of-square-numbers](https://github.com/trivenibiradar22/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1563-stone-game-v](https://github.com/trivenibiradar22/LeetCode/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/trivenibiradar22/LeetCode/tree/master/1622-fancy-sequence) |
 | [1872-stone-game-viii](https://github.com/trivenibiradar22/LeetCode/tree/master/1872-stone-game-viii) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/trivenibiradar22/LeetCode/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/trivenibiradar22/LeetCode/tree/master/0475-heaters) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/trivenibiradar22/LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0633-sum-of-square-numbers](https://github.com/trivenibiradar22/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/trivenibiradar22/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/trivenibiradar22/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/trivenibiradar22/LeetCode/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/trivenibiradar22/LeetCode/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/trivenibiradar22/LeetCode/tree/master/0475-heaters) |
+| [0633-sum-of-square-numbers](https://github.com/trivenibiradar22/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [3643-flip-square-submatrix-vertically](https://github.com/trivenibiradar22/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/trivenibiradar22/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Dynamic Programming
