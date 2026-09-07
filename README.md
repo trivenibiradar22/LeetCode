@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/trivenibiradar22/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/trivenibiradar22/LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0633-sum-of-square-numbers](https://github.com/trivenibiradar22/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0932-beautiful-array](https://github.com/trivenibiradar22/LeetCode/tree/master/0932-beautiful-array) |
 | [1563-stone-game-v](https://github.com/trivenibiradar22/LeetCode/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/trivenibiradar22/LeetCode/tree/master/1622-fancy-sequence) |
 | [1872-stone-game-viii](https://github.com/trivenibiradar22/LeetCode/tree/master/1872-stone-game-viii) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/trivenibiradar22/LeetCode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/trivenibiradar22/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/trivenibiradar22/LeetCode/tree/master/0912-sort-an-array) |
+| [0932-beautiful-array](https://github.com/trivenibiradar22/LeetCode/tree/master/0932-beautiful-array) |
 | [1046-last-stone-weight](https://github.com/trivenibiradar22/LeetCode/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/trivenibiradar22/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trivenibiradar22/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/trivenibiradar22/LeetCode/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/trivenibiradar22/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0912-sort-an-array](https://github.com/trivenibiradar22/LeetCode/tree/master/0912-sort-an-array) |
+| [0932-beautiful-array](https://github.com/trivenibiradar22/LeetCode/tree/master/0932-beautiful-array) |
 ## Two Pointers
 |  |
 | ------- |
