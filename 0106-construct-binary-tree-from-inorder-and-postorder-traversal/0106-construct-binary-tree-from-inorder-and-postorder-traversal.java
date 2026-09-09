@@ -13,25 +13,20 @@
  *     }
  * }
  */
-import java.util.*;
-
 class Solution {
-    int postIndex;
-    HashMap<Integer, Integer> map = new HashMap<>();
+    private int postIndex;
+    private java.util.HashMap<Integer, Integer> inorderMap;
 
     public TreeNode buildTree(int[] inorder, int[] postorder) {
-
         postIndex = postorder.length - 1;
-
+        inorderMap = new java.util.HashMap<>();
         for (int i = 0; i < inorder.length; i++) {
-            map.put(inorder[i], i);
+            inorderMap.put(inorder[i], i);
         }
-
-        return build(postorder, 0, inorder.length - 1);
+        return helper(postorder, 0, inorder.length - 1);
     }
 
-    private TreeNode build(int[] postorder, int left, int right) {
-
+    private TreeNode helper(int[] postorder, int left, int right) {
         if (left > right) {
             return null;
         }
@@ -39,10 +34,10 @@ class Solution {
         int rootVal = postorder[postIndex--];
         TreeNode root = new TreeNode(rootVal);
 
-        int mid = map.get(rootVal);
+        int index = inorderMap.get(rootVal);
 
-        root.right = build(postorder, mid + 1, right);
-        root.left = build(postorder, left, mid - 1);
+        root.right = helper(postorder, index + 1, right);
+        root.left = helper(postorder, left, index - 1);
 
         return root;
     }
