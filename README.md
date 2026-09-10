@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/trivenibiradar22/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/trivenibiradar22/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/trivenibiradar22/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0257-binary-tree-paths](https://github.com/trivenibiradar22/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/trivenibiradar22/LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/trivenibiradar22/LeetCode/tree/master/0332-reconstruct-itinerary) |
@@ -754,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/trivenibiradar22/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/trivenibiradar22/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/trivenibiradar22/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/trivenibiradar22/LeetCode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/trivenibiradar22/LeetCode/tree/master/0796-rotate-string) |
@@ -1219,12 +1221,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/trivenibiradar22/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/trivenibiradar22/LeetCode/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/trivenibiradar22/LeetCode/tree/master/1392-longest-happy-prefix) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/trivenibiradar22/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/trivenibiradar22/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/trivenibiradar22/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0336-palindrome-pairs](https://github.com/trivenibiradar22/LeetCode/tree/master/0336-palindrome-pairs) |
 | [1392-longest-happy-prefix](https://github.com/trivenibiradar22/LeetCode/tree/master/1392-longest-happy-prefix) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/trivenibiradar22/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
@@ -1232,6 +1236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/trivenibiradar22/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/trivenibiradar22/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/trivenibiradar22/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/trivenibiradar22/LeetCode/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/trivenibiradar22/LeetCode/tree/master/1392-longest-happy-prefix) |
@@ -1304,6 +1309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/trivenibiradar22/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/trivenibiradar22/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/trivenibiradar22/LeetCode/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/trivenibiradar22/LeetCode/tree/master/1392-longest-happy-prefix) |
@@ -1346,4 +1352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2223-sum-of-scores-of-built-strings](https://github.com/trivenibiradar22/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/trivenibiradar22/LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
