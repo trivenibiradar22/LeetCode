@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0936-stamping-the-sequence](https://github.com/trivenibiradar22/LeetCode/tree/master/0936-stamping-the-sequence) |
 | [0940-distinct-subsequences-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/trivenibiradar22/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1392-longest-happy-prefix](https://github.com/trivenibiradar22/LeetCode/tree/master/1392-longest-happy-prefix) |
 | [1927-sum-game](https://github.com/trivenibiradar22/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/trivenibiradar22/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/trivenibiradar22/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -754,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/trivenibiradar22/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/trivenibiradar22/LeetCode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/trivenibiradar22/LeetCode/tree/master/0796-rotate-string) |
+| [1392-longest-happy-prefix](https://github.com/trivenibiradar22/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1214,17 +1216,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/trivenibiradar22/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [1392-longest-happy-prefix](https://github.com/trivenibiradar22/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/trivenibiradar22/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0336-palindrome-pairs](https://github.com/trivenibiradar22/LeetCode/tree/master/0336-palindrome-pairs) |
+| [1392-longest-happy-prefix](https://github.com/trivenibiradar22/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/trivenibiradar22/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0459-repeated-substring-pattern](https://github.com/trivenibiradar22/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/trivenibiradar22/LeetCode/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/trivenibiradar22/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -1295,6 +1300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/trivenibiradar22/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/trivenibiradar22/LeetCode/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/trivenibiradar22/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Euler's Totient Function
 |  |
 | ------- |
