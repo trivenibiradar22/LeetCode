@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-longest-happy-prefix](https://github.com/trivenibiradar22/LeetCode/tree/master/1392-longest-happy-prefix) |
 | [1927-sum-game](https://github.com/trivenibiradar22/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/trivenibiradar22/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/trivenibiradar22/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/trivenibiradar22/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/trivenibiradar22/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/trivenibiradar22/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/trivenibiradar22/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/trivenibiradar22/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/trivenibiradar22/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/trivenibiradar22/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -756,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/trivenibiradar22/LeetCode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/trivenibiradar22/LeetCode/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/trivenibiradar22/LeetCode/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/trivenibiradar22/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1217,12 +1220,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/trivenibiradar22/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [1392-longest-happy-prefix](https://github.com/trivenibiradar22/LeetCode/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/trivenibiradar22/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/trivenibiradar22/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0336-palindrome-pairs](https://github.com/trivenibiradar22/LeetCode/tree/master/0336-palindrome-pairs) |
 | [1392-longest-happy-prefix](https://github.com/trivenibiradar22/LeetCode/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/trivenibiradar22/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -1230,6 +1235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/trivenibiradar22/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/trivenibiradar22/LeetCode/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/trivenibiradar22/LeetCode/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/trivenibiradar22/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -1301,6 +1307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/trivenibiradar22/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/trivenibiradar22/LeetCode/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/trivenibiradar22/LeetCode/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/trivenibiradar22/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Euler's Totient Function
 |  |
 | ------- |
@@ -1335,4 +1342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/trivenibiradar22/LeetCode/tree/master/0141-linked-list-cycle) |
+## Suffix Array
+|  |
+| ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/trivenibiradar22/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 <!---LeetCode Topics End-->
