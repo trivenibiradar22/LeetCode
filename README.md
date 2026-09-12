@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/trivenibiradar22/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/trivenibiradar22/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/trivenibiradar22/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/trivenibiradar22/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/trivenibiradar22/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/trivenibiradar22/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/trivenibiradar22/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/trivenibiradar22/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/trivenibiradar22/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/trivenibiradar22/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/trivenibiradar22/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/trivenibiradar22/LeetCode/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/trivenibiradar22/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1872-stone-game-viii](https://github.com/trivenibiradar22/LeetCode/tree/master/1872-stone-game-viii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/trivenibiradar22/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
@@ -680,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/trivenibiradar22/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/trivenibiradar22/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/trivenibiradar22/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/trivenibiradar22/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/trivenibiradar22/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Backtracking
 |  |
