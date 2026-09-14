@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/trivenibiradar22/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/trivenibiradar22/LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0633-sum-of-square-numbers](https://github.com/trivenibiradar22/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0836-rectangle-overlap](https://github.com/trivenibiradar22/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0932-beautiful-array](https://github.com/trivenibiradar22/LeetCode/tree/master/0932-beautiful-array) |
 | [1563-stone-game-v](https://github.com/trivenibiradar22/LeetCode/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/trivenibiradar22/LeetCode/tree/master/1622-fancy-sequence) |
@@ -1176,6 +1177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/trivenibiradar22/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0335-self-crossing](https://github.com/trivenibiradar22/LeetCode/tree/master/0335-self-crossing) |
 | [0478-generate-random-point-in-a-circle](https://github.com/trivenibiradar22/LeetCode/tree/master/0478-generate-random-point-in-a-circle) |
+| [0836-rectangle-overlap](https://github.com/trivenibiradar22/LeetCode/tree/master/0836-rectangle-overlap) |
 ## Topological Sort
 |  |
 | ------- |
