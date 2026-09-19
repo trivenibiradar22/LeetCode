@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/trivenibiradar22/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/trivenibiradar22/LeetCode/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/trivenibiradar22/LeetCode/tree/master/0932-beautiful-array) |
+| [0994-rotting-oranges](https://github.com/trivenibiradar22/LeetCode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/trivenibiradar22/LeetCode/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/trivenibiradar22/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trivenibiradar22/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -859,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/trivenibiradar22/LeetCode/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/trivenibiradar22/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0835-image-overlap](https://github.com/trivenibiradar22/LeetCode/tree/master/0835-image-overlap) |
+| [0994-rotting-oranges](https://github.com/trivenibiradar22/LeetCode/tree/master/0994-rotting-oranges) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/trivenibiradar22/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/trivenibiradar22/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/trivenibiradar22/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -1184,6 +1186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/trivenibiradar22/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/trivenibiradar22/LeetCode/tree/master/0463-island-perimeter) |
+| [0994-rotting-oranges](https://github.com/trivenibiradar22/LeetCode/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/trivenibiradar22/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
