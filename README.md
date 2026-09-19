@@ -1421,4 +1421,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/trivenibiradar22/LeetCode/tree/master/0214-shortest-palindrome) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/trivenibiradar22/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
