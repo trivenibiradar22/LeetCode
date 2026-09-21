@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/trivenibiradar22/LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0504-base-7](https://github.com/trivenibiradar22/LeetCode/tree/master/0504-base-7) |
 | [0537-complex-number-multiplication](https://github.com/trivenibiradar22/LeetCode/tree/master/0537-complex-number-multiplication) |
+| [0539-minimum-time-difference](https://github.com/trivenibiradar22/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0633-sum-of-square-numbers](https://github.com/trivenibiradar22/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/trivenibiradar22/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0932-beautiful-array](https://github.com/trivenibiradar22/LeetCode/tree/master/0932-beautiful-array) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/trivenibiradar22/LeetCode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/trivenibiradar22/LeetCode/tree/master/0520-detect-capital) |
 | [0537-complex-number-multiplication](https://github.com/trivenibiradar22/LeetCode/tree/master/0537-complex-number-multiplication) |
+| [0539-minimum-time-difference](https://github.com/trivenibiradar22/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0649-dota2-senate](https://github.com/trivenibiradar22/LeetCode/tree/master/0649-dota2-senate) |
 | [0686-repeated-string-match](https://github.com/trivenibiradar22/LeetCode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/trivenibiradar22/LeetCode/tree/master/0796-rotate-string) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/trivenibiradar22/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/trivenibiradar22/LeetCode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0539-minimum-time-difference](https://github.com/trivenibiradar22/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0636-exclusive-time-of-functions](https://github.com/trivenibiradar22/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/trivenibiradar22/LeetCode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/trivenibiradar22/LeetCode/tree/master/0704-binary-search) |
@@ -711,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/trivenibiradar22/LeetCode/tree/master/0472-concatenated-words) |
 | [0475-heaters](https://github.com/trivenibiradar22/LeetCode/tree/master/0475-heaters) |
 | [0502-ipo](https://github.com/trivenibiradar22/LeetCode/tree/master/0502-ipo) |
+| [0539-minimum-time-difference](https://github.com/trivenibiradar22/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0645-set-mismatch](https://github.com/trivenibiradar22/LeetCode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/trivenibiradar22/LeetCode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trivenibiradar22/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
