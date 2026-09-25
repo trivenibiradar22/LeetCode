@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/trivenibiradar22/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0645-set-mismatch](https://github.com/trivenibiradar22/LeetCode/tree/master/0645-set-mismatch) |
+| [1096-brace-expansion-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/trivenibiradar22/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trivenibiradar22/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/trivenibiradar22/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0831-masking-personal-information](https://github.com/trivenibiradar22/LeetCode/tree/master/0831-masking-personal-information) |
 | [0936-stamping-the-sequence](https://github.com/trivenibiradar22/LeetCode/tree/master/0936-stamping-the-sequence) |
 | [0940-distinct-subsequences-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/trivenibiradar22/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/trivenibiradar22/LeetCode/tree/master/1392-longest-happy-prefix) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/trivenibiradar22/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/trivenibiradar22/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0645-set-mismatch](https://github.com/trivenibiradar22/LeetCode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/trivenibiradar22/LeetCode/tree/master/0912-sort-an-array) |
+| [1096-brace-expansion-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trivenibiradar22/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/trivenibiradar22/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/trivenibiradar22/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -770,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/trivenibiradar22/LeetCode/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/trivenibiradar22/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/trivenibiradar22/LeetCode/tree/master/0494-target-sum) |
+| [1096-brace-expansion-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/trivenibiradar22/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Stack
 |  |
@@ -803,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/trivenibiradar22/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/trivenibiradar22/LeetCode/tree/master/0739-daily-temperatures) |
 | [0936-stamping-the-sequence](https://github.com/trivenibiradar22/LeetCode/tree/master/0936-stamping-the-sequence) |
+| [1096-brace-expansion-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/trivenibiradar22/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/trivenibiradar22/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Heap (Priority Queue)
@@ -1232,6 +1237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/trivenibiradar22/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/trivenibiradar22/LeetCode/tree/master/0463-island-perimeter) |
 | [0994-rotting-oranges](https://github.com/trivenibiradar22/LeetCode/tree/master/0994-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/trivenibiradar22/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
