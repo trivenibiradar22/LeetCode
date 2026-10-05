@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/trivenibiradar22/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/trivenibiradar22/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/trivenibiradar22/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/trivenibiradar22/LeetCode/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/trivenibiradar22/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/trivenibiradar22/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/trivenibiradar22/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -1282,6 +1283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/trivenibiradar22/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/trivenibiradar22/LeetCode/tree/master/0399-evaluate-division) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/trivenibiradar22/LeetCode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/trivenibiradar22/LeetCode/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 ## Shortest Path
 |  |
 | ------- |
