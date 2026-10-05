@@ -1281,6 +1281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/trivenibiradar22/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/trivenibiradar22/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/trivenibiradar22/LeetCode/tree/master/0399-evaluate-division) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/trivenibiradar22/LeetCode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1345,6 +1346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/trivenibiradar22/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/trivenibiradar22/LeetCode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Eulerian Circuit
 |  |
 | ------- |
