@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/trivenibiradar22/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/trivenibiradar22/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/trivenibiradar22/LeetCode/tree/master/2029-stone-game-ix) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/trivenibiradar22/LeetCode/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/trivenibiradar22/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/trivenibiradar22/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/trivenibiradar22/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -793,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/trivenibiradar22/LeetCode/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/trivenibiradar22/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/trivenibiradar22/LeetCode/tree/master/2065-maximum-path-quality-of-a-graph) |
 ## Stack
 |  |
 | ------- |
@@ -1283,6 +1285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/trivenibiradar22/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/trivenibiradar22/LeetCode/tree/master/0399-evaluate-division) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/trivenibiradar22/LeetCode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/trivenibiradar22/LeetCode/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/trivenibiradar22/LeetCode/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 ## Shortest Path
 |  |
