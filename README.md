@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/trivenibiradar22/LeetCode/tree/master/0932-beautiful-array) |
 | [0994-rotting-oranges](https://github.com/trivenibiradar22/LeetCode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/trivenibiradar22/LeetCode/tree/master/1046-last-stone-weight) |
+| [1306-jump-game-iii](https://github.com/trivenibiradar22/LeetCode/tree/master/1306-jump-game-iii) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/trivenibiradar22/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trivenibiradar22/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/trivenibiradar22/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -1179,6 +1180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/trivenibiradar22/LeetCode/tree/master/0472-concatenated-words) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/trivenibiradar22/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/trivenibiradar22/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+| [1306-jump-game-iii](https://github.com/trivenibiradar22/LeetCode/tree/master/1306-jump-game-iii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/trivenibiradar22/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Iterator
 |  |
@@ -1288,6 +1290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/trivenibiradar22/LeetCode/tree/master/0463-island-perimeter) |
 | [0994-rotting-oranges](https://github.com/trivenibiradar22/LeetCode/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1306-jump-game-iii](https://github.com/trivenibiradar22/LeetCode/tree/master/1306-jump-game-iii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/trivenibiradar22/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
