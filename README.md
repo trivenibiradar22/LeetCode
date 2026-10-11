@@ -502,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/trivenibiradar22/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/trivenibiradar22/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/trivenibiradar22/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/trivenibiradar22/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/trivenibiradar22/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/trivenibiradar22/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/trivenibiradar22/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -1482,6 +1483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0479-largest-palindrome-product](https://github.com/trivenibiradar22/LeetCode/tree/master/0479-largest-palindrome-product) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/trivenibiradar22/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/trivenibiradar22/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/trivenibiradar22/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/trivenibiradar22/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
