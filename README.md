@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/trivenibiradar22/LeetCode/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2784-check-if-array-is-good](https://github.com/trivenibiradar22/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/trivenibiradar22/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/trivenibiradar22/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/trivenibiradar22/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/trivenibiradar22/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/trivenibiradar22/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/trivenibiradar22/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2906-construct-product-matrix](https://github.com/trivenibiradar22/LeetCode/tree/master/2906-construct-product-matrix) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/trivenibiradar22/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/trivenibiradar22/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/trivenibiradar22/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -1239,6 +1241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/trivenibiradar22/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/trivenibiradar22/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/trivenibiradar22/LeetCode/tree/master/0493-reverse-pairs) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1249,6 +1252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/trivenibiradar22/LeetCode/tree/master/0493-reverse-pairs) |
 | [1622-fancy-sequence](https://github.com/trivenibiradar22/LeetCode/tree/master/1622-fancy-sequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/trivenibiradar22/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 ## Sweep Line
 |  |
