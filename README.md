@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/trivenibiradar22/LeetCode/tree/master/0932-beautiful-array) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/trivenibiradar22/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/trivenibiradar22/LeetCode/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/trivenibiradar22/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/trivenibiradar22/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/trivenibiradar22/LeetCode/tree/master/1622-fancy-sequence) |
 | [1872-stone-game-viii](https://github.com/trivenibiradar22/LeetCode/tree/master/1872-stone-game-viii) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/trivenibiradar22/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/trivenibiradar22/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1563-stone-game-v](https://github.com/trivenibiradar22/LeetCode/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/trivenibiradar22/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1590-make-sum-divisible-by-p](https://github.com/trivenibiradar22/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/trivenibiradar22/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/trivenibiradar22/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/trivenibiradar22/LeetCode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/trivenibiradar22/LeetCode/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/trivenibiradar22/LeetCode/tree/master/0932-beautiful-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/trivenibiradar22/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Two Pointers
 |  |
 | ------- |
@@ -695,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/trivenibiradar22/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/trivenibiradar22/LeetCode/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/trivenibiradar22/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/trivenibiradar22/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/trivenibiradar22/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/trivenibiradar22/LeetCode/tree/master/1872-stone-game-viii) |
@@ -1083,6 +1087,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/trivenibiradar22/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/trivenibiradar22/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/trivenibiradar22/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/trivenibiradar22/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/trivenibiradar22/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -1120,12 +1125,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/trivenibiradar22/LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/trivenibiradar22/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/trivenibiradar22/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/trivenibiradar22/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/trivenibiradar22/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/trivenibiradar22/LeetCode/tree/master/0062-unique-paths) |
 | [0458-poor-pigs](https://github.com/trivenibiradar22/LeetCode/tree/master/0458-poor-pigs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/trivenibiradar22/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/trivenibiradar22/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Memoization
 |  |
@@ -1135,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/trivenibiradar22/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0464-can-i-win](https://github.com/trivenibiradar22/LeetCode/tree/master/0464-can-i-win) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/trivenibiradar22/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Design
 |  |
 | ------- |
@@ -1286,6 +1294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/trivenibiradar22/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/trivenibiradar22/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/trivenibiradar22/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/trivenibiradar22/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1323,6 +1332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/trivenibiradar22/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/trivenibiradar22/LeetCode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/trivenibiradar22/LeetCode/tree/master/0399-evaluate-division) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/trivenibiradar22/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/trivenibiradar22/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
 |  |
@@ -1454,6 +1464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Fermat's Little Theorem
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/trivenibiradar22/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1622-fancy-sequence](https://github.com/trivenibiradar22/LeetCode/tree/master/1622-fancy-sequence) |
 ## Quicksort
 |  |
