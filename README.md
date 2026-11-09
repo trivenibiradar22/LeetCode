@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/trivenibiradar22/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1590-make-sum-divisible-by-p](https://github.com/trivenibiradar22/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/trivenibiradar22/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/trivenibiradar22/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/trivenibiradar22/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1664-ways-to-make-a-fair-array](https://github.com/trivenibiradar22/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/trivenibiradar22/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -923,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/trivenibiradar22/LeetCode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/trivenibiradar22/LeetCode/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/trivenibiradar22/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/trivenibiradar22/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/trivenibiradar22/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/trivenibiradar22/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/trivenibiradar22/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -1064,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/trivenibiradar22/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [1441-build-an-array-with-stack-operations](https://github.com/trivenibiradar22/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/trivenibiradar22/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/trivenibiradar22/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1929-concatenation-of-array](https://github.com/trivenibiradar22/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/trivenibiradar22/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/trivenibiradar22/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -1321,6 +1324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/trivenibiradar22/LeetCode/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/trivenibiradar22/LeetCode/tree/master/0493-reverse-pairs) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/trivenibiradar22/LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/trivenibiradar22/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/trivenibiradar22/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Binary Search Tree
 |  |
