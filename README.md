@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/trivenibiradar22/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/trivenibiradar22/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/trivenibiradar22/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/trivenibiradar22/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/trivenibiradar22/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Array
 |  |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/trivenibiradar22/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3225-maximum-score-from-grid-operations](https://github.com/trivenibiradar22/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/trivenibiradar22/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/trivenibiradar22/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/trivenibiradar22/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/trivenibiradar22/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/trivenibiradar22/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -911,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/trivenibiradar22/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/trivenibiradar22/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/trivenibiradar22/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/trivenibiradar22/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1053,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/trivenibiradar22/LeetCode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/trivenibiradar22/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/trivenibiradar22/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Simulation
 |  |
 | ------- |
@@ -1210,10 +1214,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/trivenibiradar22/LeetCode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/trivenibiradar22/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [0936-stamping-the-sequence](https://github.com/trivenibiradar22/LeetCode/tree/master/0936-stamping-the-sequence) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/trivenibiradar22/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/trivenibiradar22/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/trivenibiradar22/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1310,6 +1316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/trivenibiradar22/LeetCode/tree/master/1622-fancy-sequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/trivenibiradar22/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/trivenibiradar22/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3525-find-x-value-of-array-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/trivenibiradar22/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sweep Line
