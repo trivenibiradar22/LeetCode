@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/trivenibiradar22/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/trivenibiradar22/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/trivenibiradar22/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3364-minimum-positive-sum-subarray](https://github.com/trivenibiradar22/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/trivenibiradar22/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/trivenibiradar22/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Array
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/trivenibiradar22/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/trivenibiradar22/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3225-maximum-score-from-grid-operations](https://github.com/trivenibiradar22/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
+| [3364-minimum-positive-sum-subarray](https://github.com/trivenibiradar22/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/trivenibiradar22/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/trivenibiradar22/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/trivenibiradar22/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -1094,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/trivenibiradar22/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/trivenibiradar22/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3225-maximum-score-from-grid-operations](https://github.com/trivenibiradar22/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
+| [3364-minimum-positive-sum-subarray](https://github.com/trivenibiradar22/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/trivenibiradar22/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/trivenibiradar22/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Tree
